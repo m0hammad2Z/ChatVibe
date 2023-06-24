@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917292187720",
+    "project_id": "chatvibe-65df4",
+    "storage_bucket": "chatvibe-65df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917292187720:android:e84259f6c4fcbf00d2587d",
+        "android_client_info": {
+          "package_name": "com.example.chatvibe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917292187720-ebt4mfhmf1sa1ik96s3r3cjb5s4na6o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXT0hRi7qYm6jDnUiz7-Dt8k9C_v5CsnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917292187720-ebt4mfhmf1sa1ik96s3r3cjb5s4na6o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
